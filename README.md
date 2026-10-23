@@ -40,4 +40,4 @@ Requer uma conta AWS com acesso ao Amazon Bedrock (modelo Claude Haiku 4.5 habil
 
 ## Demonstração
 
-[inserir demo aqui]
+[Screencast from 2026-10-22 15-18-58.webm](https://github.com/user-attachments/assets/1e1034aa-2ab6-4e8c-a149-8aaf6763930a)
